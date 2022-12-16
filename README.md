@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NattyOrRoid
 - 👀 I’m interested in working as Backend Developer using Spring/ SpringBoot framework
-- 🌱 I’m currently learning Phyton, C, C# C++, Java, JavaScript, TypeScript, SQL, PHP
+- 🌱 I’m currently learnt Phyton, C, C#, C++, Java, JavaScript, TypeScript, SQL, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 fauzan.syahmi.shaari@gmail.com is the only method to reach me :p
 
